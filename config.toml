@@ -1,0 +1,10 @@
+#Hugo configuration
+title = "Stage sadflemrm"
+baseURL = "https:\/\/asd.cxv.gfdh"
+languageCode = "en-us"
+theme = "tvpage"
+disablePathToLower = "true"
+
+[params]
+loginId = "1758823"
+subfolder = ""
